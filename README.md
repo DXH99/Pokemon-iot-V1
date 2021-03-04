@@ -3,14 +3,17 @@
 
 >>This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 For more information, please check Tuya Developer Website.
-#一、方案标题
+一、方案标题
+==
 >>宠物自动喂食器
-#二、方案应用场景
+二、方案应用场景
+==
 >>* 地点：家庭住宅
 >>* 功能：
 >>在线/离线定时自动喂食、在线手动远程控制喂食、定量喂食、储食盒中剩余食物检测、故障灯光报警、
 >>能通过手机APP查询喂食记录、储食盒中食物剩余量、宠物食盆中食物剩余量、故障报警、异常情况记录。
-#三、开发计划
+三、开发计划
+==
 >>3月26日前完成
 * 1) 3月3号：完成涂鸦lot平台的产品创建。完成gitHub工程的创建。
 * 2) 3月4号至3月8号：
